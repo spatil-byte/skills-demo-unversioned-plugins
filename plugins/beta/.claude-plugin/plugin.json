@@ -1,0 +1,4 @@
+{
+  "name": "beta",
+  "description": "beta from plugins/beta. Declares no version, so a registry must version it by a commit."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "gamma",
+  "description": "gamma from plugins/gamma. Declares no version, so a registry must version it by a commit."
+}
